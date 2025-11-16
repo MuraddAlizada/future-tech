@@ -147,13 +147,4 @@ git push -u origin main --force
 git remote set-url origin https://github.com/MuraddAlizada/future-tech.git
 ```
 
-See `GIT_DEPLOY.md` for detailed instructions.
-
-### Deploy to Vercel (Recommended)
-
-1. Push code to GitHub
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-3. Import your repository
-4. Vercel auto-detects Next.js - click "Deploy"
-5. Your site is live in minutes!
 
